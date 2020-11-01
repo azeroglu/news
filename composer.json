@@ -1,6 +1,6 @@
 {
   "name": "azeroglu/news",
-  "description": "Backup your mysql and folders using PHP",
+  "description": "Xəbər saytlarını bir arada toplayan kitabxana",
   "type": "library",
   "homepage": "https://github.com/azeroglu/news",
   "license": "MIT",
