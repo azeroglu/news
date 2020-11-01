@@ -1,0 +1,16 @@
+{
+  "name": "azeroglu/apa_az",
+  "description": "Backup your mysql and folders using PHP",
+  "type": "library",
+  "homepage": "https://github.com/azeroglu/apa_az",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Emin Azeroglu",
+      "email": "azeroglu.emin05@gmail.com",
+      "homepage": "https://azeroglu.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "stable"
+}
