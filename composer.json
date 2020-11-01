@@ -1,8 +1,8 @@
 {
-  "name": "azeroglu/apa_az",
+  "name": "azeroglu/news",
   "description": "Backup your mysql and folders using PHP",
   "type": "library",
-  "homepage": "https://github.com/azeroglu/apa_az",
+  "homepage": "https://github.com/azeroglu/news",
   "license": "MIT",
   "authors": [
     {
